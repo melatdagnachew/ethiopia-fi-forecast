@@ -203,9 +203,7 @@ Scikit-learn
 Jupyter Notebook
 Installation
 
-Clone the repository
 
-git clone https://github.com/<your-username>/ethiopia-fi-forecast.git
 
 Navigate into the project
 
